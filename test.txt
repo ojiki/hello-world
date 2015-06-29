@@ -1,2 +1,2 @@
-hogeahoge master
+hogeahoge master master
 hoge text
